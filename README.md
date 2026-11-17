@@ -25,7 +25,6 @@ Find friends, activity partners, a language exchange buddy, or a job. **No swipi
 | 📌 **Leave a note** | Write what you're looking for, pick a category, pin it to your city. |
 | 🔎 **Explore cities** | Tap a city to see all its notes. Roll the dice for a surprise note from anywhere in the world. |
 | 💬 **Write** | Message the note's owner. Different language? Translate with one tap. |
-| ☕ **Meet** | If you click, meet up in a busy public place. |
 
 ## Categories
 
