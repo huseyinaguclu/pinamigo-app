@@ -14,7 +14,7 @@
 
 ## What is Pinamigo?
 
-Stick a short note on the world map — *"New in Kadıköy, looking for friends to explore the city with 🗺️"* — and someone who sees it writes to you. That's how you meet.
+Stick a short note on the world map — *"New in Kadıköy, looking for friends to explore the city with 🗺️"* — and someone who sees it writes to you.
 
 Find friends, activity partners, a language exchange buddy, or a job. **No swiping, no endless profiles — the note comes first.**
 
